@@ -12,7 +12,7 @@
     "ethereum-tx-decoder": "^1.0.2",
     "ethereumjs-block": "^1.7.1",
     "ethereumjs-common": "^0.6.1",
-    "ethereumjs-devp2p": "^2.5.1",
+    "ethereumjs-devp2p": "^3.0.3",
     "ethereumjs-tx": "^1.3.7",
     "geoip-lite": "^1.3.7",
     "isomorphic-fetch": "^2.2.1",
